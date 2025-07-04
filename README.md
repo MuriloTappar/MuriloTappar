@@ -22,6 +22,27 @@
 
 ###
 
+<div>
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Murilo! A passionate Data Science student from Brazil.
+
+  - 🌱 I’m currently studying Data Science and Computer Science at Feevale university 
+
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 30 years old, currently living in Brazil. I have an intermediate level of English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. 
+
+  - ⚡ I enjoy a watching movies,series, animes and i love playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
+</details>
+</div>
+
+###
 <p align="center">
   <a href="https://www.linkedin.com/in/murilo-tappar-75a07b146/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
