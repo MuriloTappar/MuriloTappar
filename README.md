@@ -18,6 +18,10 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
 </div>
 
 ###
