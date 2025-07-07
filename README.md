@@ -54,6 +54,10 @@
   <a href="https://www.kaggle.com/murilotappar">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
+  <a href="mailto:murilo.tappar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
 
 
