@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Murilo tappar from Brazil, i havve 30 years old <br><br>- 🔭 I’m looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.<br>- 📚 I'm currently learning abou data analytics, IA and machine learning<br>- ⚡ In my free time I play videogames,watch series,movies and animes.</p>
+<p align="left">I'm Murilo tappar from Brazil, i have 30 years old <br><br>- 🔭 I’m looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.<br>- 📚 I'm currently learning abou data analytics, IA and machine learning<br>- ⚡ In my free time I play videogames,watch series,movies and animes.</p>
 
 ###
 
